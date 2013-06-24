@@ -67,5 +67,5 @@ COEX > [午餐] KRAZE 漢堡> 奉恩寺 > Galleria百貨公司 > [下午茶] Ame
 
 每週日弘大街頭的跳蚤市場 
 
-
+http://www.koreaxing.com/thread-13114-1-1.html
  
