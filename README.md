@@ -44,14 +44,14 @@ taobao UED outing 韩国行自由行小分队，因本人是2pm、f(x)、miss A�
 	斯坦福宾馆 - 弘大 - 梨大 - 清潭洞（含SM SPY公司）- 清沙洞林荫道 - 盘浦大桥 - 回宾馆
 
 <table>
-	<tr><th>时间点</th><th>目的地</th><th>路线</th><th>备注</th></tr>
-	<tr><td>7：00出发</td><td>弘大</td><td>弘大3D美术馆 弘大购物街</td><td>跟着大家走</td></tr>
-	<tr><td>11:00</td><td>梨大</td><td>梨大购物街</td><td>跟着大家走</td></tr>
-	<tr><td>14:00</td><td>清潭洞名品店</td><td>清潭洞</td><td>跟着大家走</td></tr>
-	<tr><td>16:00</td><td>清潭洞SM公司</td><td>清潭洞SM公司</td><td>跟着大家走</td></tr>
-	<tr><td>17:00</td><td>SPY公司</td><td>SPY公司</td><td>跟着大家走</td></tr>
-	<tr><td>18：00</td><td>清沙洞林荫道</td><td>清沙洞林荫道</td><td>自由行</td></tr>
-	<tr><td>20：00</td><td>盘浦大桥</td><td>20：00或者21：00有彩虹喷泉</td><td>跟着大家走</td></tr>
+	<tr><th>时间点</th><th>目的地</th><th>换乘路线</th><th>重要景点</th><th>备注</th></tr>
+	<tr><td>7：00出发</td><td>弘大</td><td></td><td>弘大3D美术馆 弘大购物街</td><td>跟着大家走</td></tr>
+	<tr><td>11:00</td><td>梨大</td><td></td><td>梨大购物街</td><td>跟着大家走</td></tr>
+	<tr><td>14:00</td><td>清潭洞名品店</td><td></td><td>清潭洞</td><td>跟着大家走</td></tr>
+	<tr><td>16:00</td><td>清潭洞SM公司</td><td></td><td>清潭洞SM公司</td><td>跟着大家走</td></tr>
+	<tr><td>17:00</td><td>SPY公司</td><td></td><td>SPY公司</td><td>跟着大家走</td></tr>
+	<tr><td>18：00</td><td>清沙洞林荫道</td><td></td><td>清沙洞林荫道</td><td>自由行</td></tr>
+	<tr><td>20：00</td><td>盘浦大桥</td><td></td><td>20：00或者21：00有彩虹喷泉</td><td>跟着大家走</td></tr>
 	<tr><td>22：00回宾馆</td><td>斯坦福宾馆</td><td></td><td>跟着大家走</td></tr>
 </table>
 
