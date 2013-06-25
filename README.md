@@ -1,6 +1,6 @@
 # 综述
 taobao UED outing 韩国行自由行小分队，因本人是2pm、f(x)、miss A等各种团的饭，我们小分队取名miss U，U取自UED、UX,同时miss U有miss you之意:)
-http://img03.taobaocdn.com/tps/i3/T1e6NrFntbXXX0x5Aq-395-433.jpg
+[http://img03.taobaocdn.com/tps/i3/T1e6NrFntbXXX0x5Aq-395-433.jpg]()
 
 # miss U（韩文名称：미스유이）
 * 妙净（먀징）：韩语担当，业余学了8个月，问路应该ok，其他靠app神器
@@ -8,8 +8,7 @@ http://img03.taobaocdn.com/tps/i3/T1e6NrFntbXXX0x5Aq-395-433.jpg
 * 紫溪（지시）：身高担当，167媲美miss A、f(x)、少时等组合的成员,拉风！
 * 灵吾（린우）：人妖兼力气担当，拎所有东西，其实是真汉子:)
 
-四人组队差不多，方便打的~
-
+四人组队差不多，方便打的，不易走散~
 
 # 前期大致分工
 1. 安昵看看什么东西好吃，虽然咱们走到哪里吃到哪里，综合把控出国的各种注意事项
@@ -37,8 +36,6 @@ COEX MALL
 弘大 3D美术馆
 SM公司
 光化门广场——三清洞——北村韩屋村—乱打秀—梨花壁画村——南山首尔塔 (http://www.visitkorea.or.kr/cht/SI/SI_CH_2_14.jsp?cid=301993)
-
-
 
 首尔交通：
 做黄色公交：950每人 
@@ -75,4 +72,7 @@ http://www.koreaxing.com/thread-13114-1-1.html
 3. 建议租一个egg，就是移动的wifi，易八达的会员卡，40块钱一天，很方便，如果你不会语言，下一个旅行翻译官，翻译出来给他们看也OK，T3 T2都有，淘宝也有，需要提前订。同时可以查路线，发微信报平安，网址：http://www.koreaxing.com/dp/item-63.html    
 4. 建议T-MONKY卡钱不要充太多，因为不能退，你可以先充100，如果只是坐地铁应该够了。    
 5. 各种优惠卷可以去易八达以及韩国旅游发展局的网站上打印。    
-6. 【重点】要去青瓦台，一定要提前1个月预约，只要你的护照号码就可以，我就是因为没有预约到，所以没法去。    
+
+# 旅游用语（以备不时之需，妙净已打印，韩语是音表语言，好读）
+http://visitkorea.or.kr/cht/CU/CU_CH_3_2_7_5.jsp
+
