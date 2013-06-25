@@ -52,7 +52,7 @@ taobao UED outing 韩国行自由行小分队，因本人是2pm、f(x)、miss A�
 	<tr><td>17:00</td><td>SPY公司</td><td></td><td>SPY公司</td><td>跟着大家走</td></tr>
 	<tr><td>18：00</td><td>清沙洞林荫道</td><td></td><td>清沙洞林荫道</td><td>自由行</td></tr>
 	<tr><td>20：00</td><td>盘浦大桥</td><td></td><td>20：00或者21：00有彩虹喷泉</td><td>跟着大家走</td></tr>
-	<tr><td>22：00回宾馆</td><td>斯坦福宾馆</td><td></td><td>跟着大家走</td></tr>
+	<tr><td>22：00回宾馆</td><td>斯坦福宾馆</td><td></td><td></td><td></td></tr>
 </table>
 
 
