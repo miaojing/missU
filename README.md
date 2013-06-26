@@ -44,8 +44,8 @@ taobao UED outing 韩国行自由行小分队，因本人是2pm、f(x)、miss A�
 	斯坦福宾馆 - 弘大 - 梨大 - 清潭洞 - 清沙洞林荫道 - 盘浦大桥 - 回宾馆
 
 <table>
-	<tr><th>时间点</th><th>目的地</th><th>换乘路线</th><th>路线图</th><th>重要景点</th></tr>
-	<tr><td>8：00出发</td><td>弘大</td><td>早饭酒店附近解决，酒店坐Bus到DMC（Digital Media City Metro Station），坐AirportRailroad弘大下或者水色站坐Gueongui到弘益大学</td><td>弘大壁画 弘大购物街</td></tr>
+	<tr><th>时间点</th><th>目的地</th><th>换乘路线</th><th>重要景点</th></tr>
+	<tr><td>8：00出发</td><td>弘大</td><td>酒店坐Bus到DMC（Digital Media City Metro Station），坐AirportRailroad弘大下或者水色站坐Gueongui到弘益大学</td><td>弘大壁画 弘大购物街</td></tr>
 	<tr><td>11:00</td><td>梨大</td><td></td><td>梨大校园 梨大购物美食街 中饭梨大解决</td></tr>
 	<tr><td>14:00</td><td>狎鸥亭∙清潭洞</td><td>梨大坐2号线到建大入口换乘7号线（最快换乘点3-2号车厢）到清潭站下</td><td>狎鸥亭∙清潭洞步行到清沙洞林荫道途经（JYP娱乐公司、清潭洞名品街、SM娱乐公司、Galleria百货公司、整容一条街、现代百货公司、到达新沙洞林荫道）</td></tr>
 	<tr><td>16：00</td><td>清沙洞林荫道</td><td>步行</td><td>下午茶+晚餐，休闲+美食+艺术</td></tr>
