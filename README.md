@@ -54,10 +54,10 @@ taobao UED outing 韩国行自由行小分队，因本人是2pm、f(x)、miss A�
 </table>
 
 ## 狎鸥亭∙清潭洞步行路线详图
-![tingqiandong.png](清潭洞详洞)
+![](tingqiandong.png)
 
 ## 盘浦大桥回酒店路线图
-![gaosubashitoshuise.png](盘浦大桥回酒店路线图)
+![盘浦大桥回酒店路线图](gaosubashitoshuise.png)
 
 # 中韩地图
 http://map.cn.konest.com/darea/13
