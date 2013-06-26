@@ -1,5 +1,6 @@
 # 综述
 taobao UED outing 韩国行自由行小分队，因姑娘是2pm、f(x)、miss A等各种团的饭，我们小分队取名miss U，U取自UED、UX,同时miss U有miss you之意:)
+
 ![miss A](img/missa.png)
 # miss U（韩文名称：미스유이）
 * 妙净（먀징）：韩语担当，业余学了8个月，问路应该ok，其他靠app神器
