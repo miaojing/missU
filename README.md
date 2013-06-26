@@ -1,6 +1,6 @@
 # 综述
 taobao UED outing 韩国行自由行小分队，因姑娘是2pm、f(x)、miss A等各种团的饭，我们小分队取名miss U，U取自UED、UX,同时miss U有miss you之意:)
-![miss A](http://img03.taobaocdn.com/tps/i3/T1e6NrFntbXXX0x5Aq-395-433.jpg)
+![miss A](img/missa.png)
 # miss U（韩文名称：미스유이）
 * 妙净（먀징）：韩语担当，业余学了8个月，问路应该ok，其他靠app神器
 * 安昵（안니）：英语担当，留澳三年，英语no problem!
@@ -92,8 +92,12 @@ http://map.cn.konest.com/darea/13
 * 观光巴士：市區循環路線 10,000（约53人民币）
 * T-money 公交卡  到处可以刷卡 必须一人一张 已经淘宝上买好
 
+# 旅游用语
+以备不时之需，妙净打印,手机有电子稿，韩语是音表文字，好念
+http://visitkorea.or.kr/cht/CU/CU_CH_3_2_7_5.jsp
+
 # 通讯
-wifi egg和插座转接头已经淘宝上买好搞定
+wifi egg和插座转接头灵吾已经淘宝上买好搞定
  
 # 备忘录
 雨具，换洗衣服，毛巾，洗漱用品，接线板，钱包，移动电源，打印机票行程单，复印身份证，护照本，地铁路线图（人手一份）
@@ -105,7 +109,5 @@ wifi egg和插座转接头已经淘宝上买好搞定
 5. 各种优惠卷可以去易八达以及韩国旅游发展局的网站上打印。    
 6. 带大的接线板
 
-# 旅游用语
-以备不时之需，妙净打印,手机有电子稿，韩语是音表文字，好念
-http://visitkorea.or.kr/cht/CU/CU_CH_3_2_7_5.jsp
+
 
