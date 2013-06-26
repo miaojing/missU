@@ -55,6 +55,13 @@ taobao UED outing 韩国行自由行小分队，因本人是2pm、f(x)、miss A�
 
 ## 狎鸥亭∙清潭洞步行路线详图
 ![](img/tingtandong.png)
+1. JYP娱乐公司
+2. 清潭洞名品街
+3. SM娱乐公司
+4. Galleria百货公司
+5. 整容医院一条街
+6. 现代百货公司
+7. 新沙洞林荫道
 
 ## 盘浦大桥回酒店路线图
 ![盘浦大桥回酒店路线图](img/gaosubashitoshuise.png)
