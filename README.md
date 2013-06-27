@@ -87,7 +87,7 @@ http://www.visitkorea.or.kr/chs/SI/SI_CHG_2_1_1_1.jsp?cid=1119257
 
 <table>
 	<tr><th>时间点</th><th>目的地</th><th>换乘路线</th><th>重要景点</th><th>车时、总车费5550</th></tr>
-	<tr><td>8：00出发</td><td>弘大 (홍대)</td><td>酒店坐Bus到DMC（Digital Media City Metro Station），坐AirportRailroad弘大下或者水色站(수색역)坐Gueongui到弘益大学</td><td>弘大壁画 弘大购物街</td><td>10分钟、1050韩币</td></tr>
+	<tr><td>8：00出发</td><td>弘大 (홍대)</td><td>酒店坐Bus到DMC（Digital Media City Metro Station），坐AirportRailroad弘大下或者水色站(수색역)坐Gueongui到弘益大学</td><td>毕加索街涂鸦、3D美术馆、俱乐部</td><td>10分钟、1050韩币</td></tr>
 	<tr><td>11:00</td><td>梨大 (이화여자대학교)</td><td>在弘大乘坐2号线经过新村到达梨大，如果时间够就直接从新村走到梨大</td><td>梨大校园 梨大购物美食街 中饭梨大解决</td><td>4分钟、1050韩币</td></tr>
 	<tr><td>14:00</td><td>清潭洞(청담동)</td><td>梨大坐2号线到建大入口(건대입구역)换乘7号线（最快换乘点3-2号车厢）到清潭站(청담역)下</td><td>狎鸥亭∙清潭洞(압구정・청담동)步行到清沙洞林荫道途经（JYP娱乐公司、清潭洞名品街、SM娱乐公司、Galleria百货公司、整容一条街、现代百货公司、到达新沙洞林荫道）</td><td>37分钟、1150韩币</td></tr>
 	<tr><td>16：00</td><td>清沙洞林荫道（신사동 가로수길）</td><td>步行</td><td>下午茶+晚餐，休闲+美食+艺术</td><td>0韩币</td></tr>
