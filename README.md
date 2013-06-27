@@ -29,6 +29,7 @@ taobao UED outing 韩国行自由行小分队，因姑娘是2pm、f(x)、miss A�
 
 1. 悦诗风吟 innisfree 绿茶籽精华 / 火山泥面膜 / 胶囊面膜 / 片状面膜 / 绿茶睡眠面膜 / 绿茶眼霜 （全部必买）
 2. 伊恩 It's skin - 蜗牛霜 （白/红）/ Q10精华系列 （必买）
+![miss A](img/2.png)
 3. 赫拉 Hera - 气垫BB 色号N21 （必买） / 震动散粉
 4. 亦博 IOPE - 气垫BB UV mist cushion
 5. 兰芝 Laneige - 气垫BB snow BB soothing cushion/ 睡眠面膜（必买）
@@ -40,9 +41,13 @@ taobao UED outing 韩国行自由行小分队，因姑娘是2pm、f(x)、miss A�
 11. 艾丽小屋 Etude House - 小动物护手霜 蜗牛面膜 西红柿面膜
 12. 思亲肤 Skin food - 罐装面膜
 13. too cool for school - 唇笔 棉棒 鸡蛋面膜
+![miss A](img/13.png)
 14. sisley希思黎 全能乳液
+![miss A](img/14.png)
 15. HOLIKA HOLIKA 带刷泡沫洗面奶
+![miss A](img/15.png)
 16. 猪鼻子去黑头鼻贴膜
+![miss A](img/bitou.png)
 17. TOO COOL FOR SCHOOL家的棉签棒
 18. 自然乐园的蛇毒面膜  去皱保湿 弹性营养
 19.悦诗风吟 innisfree 的面膜
@@ -54,9 +59,9 @@ taobao UED outing 韩国行自由行小分队，因姑娘是2pm、f(x)、miss A�
 ps：他家面膜 价格不贵 但是免税店 一卖就是10片一样的一包，不利用各种尝试，但街边专卖店，可以单独购买，建议mm们 ，选几张喜欢的，先试试，哪个适合自己再去专卖店大批购买，价格也别专卖店便宜点
 
 20. hanskin的招牌黑管bb  rmb150-170元
-
+![miss A](img/hanskin.png)
 21. 爱丽小屋 珠光粉饼  提亮效果还是满意的。价格也很白菜，免税店12美金
-
+![miss A](img/fenbing.png)
 
 # 想做的：体验韩剧的经典场景
 1. 去韩国的澡堂一趟，体验下电视剧里面的经典的情节，在首尔洗一次最普通的桑拿浴，价格基本上从20块(人民币)到60块(人民币)之间，大体上以三四十块(人民币)的为多，咱们可以找个价格再高点的。
