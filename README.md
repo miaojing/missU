@@ -71,7 +71,7 @@ taobao UED outing 韩国行自由行小分队，因姑娘是2pm、f(x)、miss A�
 	<tr><td>7月6日</td><td>弘大-梨大-清潭洞（含SM JYP公司）-清沙洞林荫道-盘浦大桥-回宾馆</td><td>自由行</td></tr>
 	<tr><td>7月7日</td><td>宾馆附近的超市逛逛，午餐后【土特产商店】- 回航</td><td></td></tr>
 </table>
-# 4/5日晚上韩式汗蒸幕 haddyday spa
+# 4/5日晚上韩式汗蒸幕 happyday spa
 http://www.visitkorea.or.kr/chs/SI/SI_CHG_2_1_1_1.jsp?cid=1119257
 * 位置	首尔麻浦区西桥洞371-10 Kyu Soo Dang婚礼厅地下1层（서울 마포구 서교동 371-10 규수당웨딩홀 지하 1층）
 * 交通   弘大附近  如下图 1.地铁2号线弘大入口站5号出口，步行5分钟(位于Kyu Soo Dang婚礼厅地下1层)  2.地铁2、6号线合井站3号出口，步行5分钟(位于Kyu Soo Dang婚礼厅地下1层)
